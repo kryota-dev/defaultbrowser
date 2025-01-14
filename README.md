@@ -17,7 +17,7 @@ make
 Install it into your executable path:
 
 ```sh
-make install
+sudo make install
 ```
 
 ## Usage
